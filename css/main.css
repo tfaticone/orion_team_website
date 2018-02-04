@@ -24,12 +24,14 @@ hr {
 .index-background {
     height: 100%;
     width: 100%;
-    postion: relative;
+    position: relative;
+    max-height: calc(100vh - 50px);
 }
 
 .index-background img {
     height: 100%;
     width: 100%;
+    max-height: calc(100vh - 50px);
 }
 
 .index-background h1 {
