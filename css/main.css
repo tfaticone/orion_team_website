@@ -1,0 +1,59 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+body {
+    background-color: #E7E7E8;
+}
+
+.main-content {
+    width: 75%;
+    margin: 3rem auto 0 auto;
+}
+
+hr {
+    border-color: black;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
+/* index CSS */
+.index-background {
+    height: 100%;
+    width: 100%;
+    postion: relative;
+}
+
+.index-background img {
+    height: 100%;
+    width: 100%;
+}
+
+.index-background h1 {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 10rem;
+    font-family: roboto;
+}
+
+.m-t-1 {
+    margin-top: 5rem;
+}
+
+.p-l-0 {
+    padding-left: 0;
+}
+
+.p-r-0 {
+    padding-right: 0;
+}
+
+.italics {
+    font-style: italic;
+}
